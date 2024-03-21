@@ -35,6 +35,7 @@ SHP Pedra Furada -----6,5 MW -------Ribeirão, --------PE Sirinhaém
 Table : SHPs capacity and location 
 _______________
 SHP Areado:
+
 The project activity is a renewable power generation activity which incorporates installation and
 operation of 2 Horizontal Axis Kaplan S Turbines, having individual nominal capacity of 9 MW. The
 Project is connected to the city of Chapadão do Sul and supplies 18 MW of power to the national grid
@@ -73,6 +74,7 @@ energy source, it does not cause any significant negative impact on the environm
 contributes to climate change mitigation efforts.
 _____________________________
 SHP Pedra Furada:
+
 The project activity is a renewable power generation activity which incorporates installation and
 operation of 2 Horizontal Axis Francis Turbines, having individual nominal capacity of 3.43 MW.
 The Project is connected to the city of Ribeirão and supplies 6,5 MW of power to the national grid
