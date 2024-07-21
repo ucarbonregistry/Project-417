@@ -91,5 +91,85 @@ based power plants, resulting in an estimated emission reduction of 10,060.17 tC
 Since the project activity generates electricity through a run-of-river hydroelectric, a clean renewable
 energy source, it does not cause any significant negative impact on the environment and thereby
 contributes to climate change mitigation efforts. 
+____________
+Total amount of emission reductions was 310,955 tCO2eq for the monitoring period, already
+considering the deduction of MWh that were converted into I-RECs.
+____________
+Prior History
 
+The SHP Bandeirante, part of this project, issued I-RECs from January/2022 to December/2022
+__________________
+Monitoring period number and duration>>
 
+First Monitoring Period: 11 years – 01/01/2013 to 31/12/20223
+__________________
+Total ISSUED: 310995
+
+ISSUE DATE: 19/07/2024
+______________________
+Serial Number: 0001-000001-008867-UCR-CoU-BR-417-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 8867
+________________
+Serial Number: 0001-008868-019770-UCR-CoU-BR-417-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 10903
+________________
+Serial Number: 0001-019771-028418-UCR-CoU-BR-417-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 8648
+______________
+Serial Number: 0001-028419-035943-UCR-CoU-BR-417-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 7525
+______________
+Serial Number: 0001-035944-044718-UCR-CoU-BR-417-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 8775
+_____________
+Serial Number: 0001-044719-054758-UCR-CoU-BR-417-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 10040
+_________________
+Serial Number: 0001-054759-085004-UCR-CoU-BR-417-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 30246
+________________
+Serial Number: 0001-085005-151505-UCR-CoU-BR-417-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 66501
+______________
+Serial Number: 0001-151506-228150-UCR-CoU-BR-417-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 76645
+______________
+Serial Number: 0001-228151-252475-UCR-CoU-BR-417-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 24325
+_____________
+Serial Number: 0001-252476-310955-UCR-CoU-BR-417-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 58480
+______________________
